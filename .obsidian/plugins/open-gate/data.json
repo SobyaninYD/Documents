@@ -1,0 +1,16 @@
+{
+  "uuid": "5wuj8p8gt9xtmgk0zyzdy",
+  "gates": {
+    "aHR0cHM6Ly9nb29nbGUuY29t": {
+      "id": "aHR0cHM6Ly9nb29nbGUuY29t",
+      "title": "GPT",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly9nb29nbGUuY29t\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://chat.openai.com/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    }
+  }
+}

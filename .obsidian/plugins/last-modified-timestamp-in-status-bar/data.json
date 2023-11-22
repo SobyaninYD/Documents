@@ -1,0 +1,9 @@
+{
+  "createdPrepend": "Создан: ",
+  "createdTimestampFormat": "YYYY-MM-DD H:mm:ss",
+  "createdEnabled": true,
+  "lastModifiedEnabled": true,
+  "lastModifiedPrepend": "Последнее изменение: ",
+  "lastModifiedTimestampFormat": "YYYY-MM-DD H:mm:ss",
+  "refreshIntervalSeconds": 2
+}
