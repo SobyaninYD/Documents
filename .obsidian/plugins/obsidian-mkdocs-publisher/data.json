@@ -1,7 +1,7 @@
 {
   "github": {
     "user": "SobyaninYD",
-    "repo": "",
+    "repo": "Documents",
     "branch": "main",
     "automaticallyMergePR": true,
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
@@ -14,8 +14,8 @@
       "name": ""
     },
     "otherRepo": [],
-    "verifiedRepo": false,
-    "rateLimit": 0
+    "verifiedRepo": true,
+    "rateLimit": 4979
   },
   "upload": {
     "behavior": "fixed",

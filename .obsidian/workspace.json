@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "124a09e131efa4e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RuPost.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RuPost.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RuPost.md"
+                "file": "index.md"
               }
             }
           },
@@ -177,8 +190,10 @@
       "open-gate:GPT": false
     }
   },
-  "active": "237706af1826477a",
+  "active": "124a09e131efa4e7",
   "lastOpenFiles": [
+    "RuPost.md",
+    "index.md",
     "11.md",
     "index.html",
     "test",
@@ -222,7 +237,6 @@
     "Test/02.Почтовые сервера/03.IMAPSYNC.md",
     "Test/09.Ведение сетевой инфраструктуры/phpIPAM Ubuntu 22.04.md",
     "Test/01.Удаленные рабочие столы/03.Проблема после обновления СБИС не работает интернет и CryptoPro.md",
-    "Test/05.ALTLinux/01.CryptoPro CSP AltLinux.md",
-    "Test/03.Система резервного копирования/01.Rsync.md"
+    "Test/05.ALTLinux/01.CryptoPro CSP AltLinux.md"
   ]
 }
