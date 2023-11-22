@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.md",
+                "file": "RuPost.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.md",
+                "file": "RuPost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.md",
+                "file": "RuPost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.md"
+                "file": "RuPost.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             }
           },
           {
-            "id": "4308bc55e43ec7e4",
+            "id": "57e7061db63a876e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -155,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -178,8 +177,9 @@
       "open-gate:GPT": false
     }
   },
-  "active": "f6e673ad2bcc4d45",
+  "active": "237706af1826477a",
   "lastOpenFiles": [
+    "11.md",
     "index.html",
     "test",
     "docs",
@@ -187,7 +187,6 @@
     "06.Windows/Windows полезные команды.md",
     "001.Лицензии на ПО/01.AltLinux/01.Альт Виртуализация/Лицензия Альт Виртуализация.pdf",
     "Test/001.Лицензии на ПО/01.AltLinux/01.Альт Виртуализация/Лицензия Альт Виртуализация.pdf",
-    "11.md",
     "ADDDD.md",
     "01.Удаленные рабочие столы/01.(Скрипт)Настройка удаленного рабочего стола.md",
     "Test/files/Pasted image 20230510120254.png",
@@ -205,7 +204,6 @@
     "Test/files/Pasted image 20230518141944.png",
     "Test/files/Pasted image 20230518102545.png",
     "Test/06.Windows/01.AD/01.Скрипты/Файлы скритов/02. (service.corp)Сбор информации о группах AD.ps1",
-    "Test/06.Windows/01.AD/01.Скрипты/Файлы скритов/01. (service.corp)Сбор информации о пользователях для экспорта на другой домен.ps1",
     "Test/Swift/02. Типы данных.md",
     "Test/Swift/01. Константы и переменные.md",
     "Test/01.Удаленные рабочие столы/Схема/Ресурсы дашбордов.md",

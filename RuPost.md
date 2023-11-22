@@ -1,5 +1,5 @@
 ---
-sticker: emoji//1f4ec
+sticker: lucide//mail-check
 ---
 После установки  ос требуется подключить расширенный репозиторий Astra Linux. Для этого необходимо в `/etc/apt/sources.list` добавить:
 ```shell file:/etc/apt/sources.list
