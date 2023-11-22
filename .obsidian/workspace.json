@@ -190,8 +190,9 @@
       "open-gate:GPT": false
     }
   },
-  "active": "124a09e131efa4e7",
+  "active": "285285c838e281c4",
   "lastOpenFiles": [
+    "CNAME",
     "RuPost.md",
     "index.md",
     "11.md",
@@ -236,7 +237,6 @@
     "Test/02.Почтовые сервера/01.Carbonio CE.md",
     "Test/02.Почтовые сервера/03.IMAPSYNC.md",
     "Test/09.Ведение сетевой инфраструктуры/phpIPAM Ubuntu 22.04.md",
-    "Test/01.Удаленные рабочие столы/03.Проблема после обновления СБИС не работает интернет и CryptoPro.md",
-    "Test/05.ALTLinux/01.CryptoPro CSP AltLinux.md"
+    "Test/01.Удаленные рабочие столы/03.Проблема после обновления СБИС не работает интернет и CryptoPro.md"
   ]
 }
