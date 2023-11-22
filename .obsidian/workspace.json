@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             }
           },
           {
-            "id": "09d0aa786f3bb1bc",
+            "id": "4308bc55e43ec7e4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -154,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,8 +178,9 @@
       "open-gate:GPT": false
     }
   },
-  "active": "237706af1826477a",
+  "active": "f6e673ad2bcc4d45",
   "lastOpenFiles": [
+    "index.html",
     "test",
     "docs",
     "настройка входа на госуслуги.md",
@@ -204,7 +206,6 @@
     "Test/files/Pasted image 20230518102545.png",
     "Test/06.Windows/01.AD/01.Скрипты/Файлы скритов/02. (service.corp)Сбор информации о группах AD.ps1",
     "Test/06.Windows/01.AD/01.Скрипты/Файлы скритов/01. (service.corp)Сбор информации о пользователях для экспорта на другой домен.ps1",
-    "Test/001.Лицензии на ПО/01.AltLinux/03.Альт Рабочая станция/Сертификат E9PQ-2Q2M-2QZL 25.08.202 3.pdf",
     "Test/Swift/02. Типы данных.md",
     "Test/Swift/01. Константы и переменные.md",
     "Test/01.Удаленные рабочие столы/Схема/Ресурсы дашбордов.md",
